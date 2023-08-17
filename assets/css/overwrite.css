@@ -1,0 +1,11 @@
+.sidebar .sidebar-brand-wrapper .sidebar-brand img {
+    width: 80%;
+}
+.sidebar .sidebar-brand-wrapper .sidebar-brand{
+    padding: 0 0 0 8px;
+}
+.sidebar .sidebar-brand-wrapper .sidebar-brand.brand-logo-mini img{
+    width: 80%;
+    height: auto;
+    padding: 0 0 0 8px;
+}
